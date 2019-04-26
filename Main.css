@@ -1,0 +1,93 @@
+html, body{
+    height: 100%;
+    widows: 100%;
+}
+.navbar{
+    padding: 20px;
+    font-size: 19px;
+    background-color: #00cccc;
+    color: black;
+}
+.navbar-default .navbar-nav li a {
+    color: black;
+.navbar navbar-default .navbar li a:hover, navbar-default .navbar-nav li a:active
+color: #ffffff;
+}
+
+#home{
+    background: url(images/codeonlaptopjpg.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+    padding: 20px;
+}
+.landing-text{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.landing-text h1{
+    font-size: 600%;
+    font-weight: 500;
+    
+}
+.landing-text h2 {
+    font-size: 400%;
+    font-weight: 400;
+
+}
+.landing-text h3{
+    font-size: 350%;
+    font-weight: 400;
+}
+.padding{
+    padding: 80px 10px;
+}
+.padding img{
+    width: 100%;
+}
+
+.padding :-webkit-textfield-decoration-container{
+    padding: 20px;
+
+}
+#fixed{
+    background: url(images/codeonlaptopjpg.jpg) no-repeat center center fixed;
+    display: table;
+    height: 50px;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+footer{
+    width: 100%;
+    background-color: #00cccc;
+    padding: 5% 5% 10% 5%;
+    color: black;
+}
+.fa{
+    padding: 15px;
+    font-size: 35px;
+    color: black;
+}
+
+footer.row h2{
+    background-color: #00cccc;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
